@@ -2,7 +2,7 @@
 ![RustBanner](assets/Rust_Banner.png)
 
 # Rust-Example
-A group of Rust code example for a college project.
+A group of Rust code examples for a college project.
 
 ## License
 Distributed under Apache 2.0 License, see [LICENSE](LICENSE) for more information.
