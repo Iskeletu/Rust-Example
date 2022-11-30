@@ -1,5 +1,5 @@
 <a id="top"></a>
-![Rust Banner](assets/rust banner.png)
+![RustBanner](assets/Rust_Banner.png)
 
 # Rust-Example
 A group of Rust code example for a college project.
